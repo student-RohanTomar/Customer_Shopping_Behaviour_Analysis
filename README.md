@@ -107,7 +107,11 @@ The Power BI dashboard provides insights into:
 * Customer segmentation analysis
 * High-value discount user identification
 
+<h2>📊 Dashboard</h2>
 
+<p align="center">
+  <img src="Dashboard.png" width="800">
+</p>
 
 ---
 
